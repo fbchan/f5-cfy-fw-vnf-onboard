@@ -1,5 +1,5 @@
-# Cloudify Blueprint to onboard F5 VNF onto OpenStack
-### This blueprint will onboard F5 VNF onto OpenStack environment (tested on Mitaka)
+# Cloudify Blueprint to onboard F5 Firewall VNF onto OpenStack
+### This blueprint will onboard F5 FW VNF onto OpenStack environment (tested on Mitaka)
 
 ## Notes
 > This blueprint support onboarding with F5 License Key string or Integrated with BIG-IQ License Manager. For BIG-IQ LM integration, ensure you have BIG-IQ LM setup prior. Contact your F5 sales reps to obtains an eval key if you want to test this blueprint.
